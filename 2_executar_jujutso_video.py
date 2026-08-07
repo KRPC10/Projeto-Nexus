@@ -110,7 +110,7 @@ def carregar_som(caminho):
 
 som_gojo = carregar_som("audio_gojo.mp3")
 som_sukuna = carregar_som("audio_sukuna.mp3")
-som_flecha = carregar_som("audio_flecha.mp3")
+som_flecha = carregar_som("audio_flecha.mp3") 
 som_sixseven = carregar_som("audio_sixseven.mp3")
 som_mahito = carregar_som("audio_mahito.mp3")
 
